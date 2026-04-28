@@ -62,7 +62,7 @@
                 </span>
                 <span v-else class="text-muted">待评</span>
               </td>
-              <td class="text-sm text-muted">{{ formatTime(r.submitTime) }}</td>
+              <td class="text-sm text-muted">{{ formatDate(r.submitTime) }}</td>
               <td>
                 <span :class="['tag', isFullyGraded(r) ? 'tag-published' : 'tag-draft']">
                   {{ isFullyGraded(r) ? '已完成' : '部分待评' }}
