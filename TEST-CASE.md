@@ -7,8 +7,9 @@
 | 项目代号 | OES |
 | 任务编号 | OES-T002 |
 | 版本 | v1.0 |
-| 作者 | Moss (QA) |
-| 创建日期 | 2026-04-27 |
+| 作者 | 智子 (Layer 2) |
+| 创建日期 | 2026-04-28 |
+| 品鉴者 | 廖雨亭 |
 | PRD 版本 | v1.0 (2026-04-23, Pichai) |
 | 部署地址 | https://labradorsedsota.github.io/online-exam-system-singer/ |
 | Repo | https://github.com/labradorsedsota/online-exam-system-singer |
