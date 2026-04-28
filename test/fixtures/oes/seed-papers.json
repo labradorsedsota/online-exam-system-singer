@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p_published_1",
+    "name": "综合测试卷",
+    "duration": 60,
+    "passScore": 60,
+    "description": "覆盖四种题型的综合测试",
+    "startTime": null,
+    "endTime": null,
+    "questions": [
+      {"questionId": "q_single_1", "score": 10},
+      {"questionId": "q_single_2", "score": 10},
+      {"questionId": "q_multi_1", "score": 15},
+      {"questionId": "q_multi_2", "score": 15},
+      {"questionId": "q_blank_1", "score": 10},
+      {"questionId": "q_blank_2", "score": 10},
+      {"questionId": "q_essay_1", "score": 15},
+      {"questionId": "q_essay_2", "score": 15}
+    ],
+    "status": "published",
+    "switchOn": true,
+    "createdAt": 1714000100000
+  },
+  {
+    "id": "p_draft_1",
+    "name": "草稿试卷",
+    "duration": 90,
+    "passScore": 60,
+    "description": "草稿状态试卷",
+    "startTime": null,
+    "endTime": null,
+    "questions": [
+      {"questionId": "q_single_1", "score": 10},
+      {"questionId": "q_multi_1", "score": 15}
+    ],
+    "status": "draft",
+    "switchOn": true,
+    "createdAt": 1714000200000
+  },
+  {
+    "id": "p_closed_1",
+    "name": "已关闭试卷",
+    "duration": 45,
+    "passScore": 50,
+    "description": "已关闭的试卷",
+    "startTime": null,
+    "endTime": null,
+    "questions": [
+      {"questionId": "q_single_1", "score": 10},
+      {"questionId": "q_blank_1", "score": 10}
+    ],
+    "status": "closed",
+    "switchOn": true,
+    "createdAt": 1714000300000
+  }
+]

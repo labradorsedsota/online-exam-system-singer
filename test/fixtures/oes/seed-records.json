@@ -1,0 +1,157 @@
+[
+  {
+    "id": "r_1",
+    "paperId": "p_published_1",
+    "studentName": "张三",
+    "answers": {
+      "q_single_1": 1,
+      "q_single_2": 2,
+      "q_multi_1": [0, 2],
+      "q_multi_2": [0, 2],
+      "q_blank_1": "JS",
+      "q_blank_2": "Google",
+      "q_essay_1": "HTTPS使用SSL加密，HTTP不加密。",
+      "q_essay_2": "响应式设计让网站适配不同屏幕。"
+    },
+    "flagged": {},
+    "status": "graded",
+    "startTime": 1714001000000,
+    "submitTime": 1714002000000,
+    "scores": {
+      "q_single_1": 10,
+      "q_single_2": 10,
+      "q_multi_1": 15,
+      "q_multi_2": 15,
+      "q_blank_1": 10,
+      "q_blank_2": 10,
+      "q_essay_1": 12,
+      "q_essay_2": 10
+    },
+    "totalScore": 92,
+    "createdAt": 1714001000000
+  },
+  {
+    "id": "r_2",
+    "paperId": "p_published_1",
+    "studentName": "李四",
+    "answers": {
+      "q_single_1": 0,
+      "q_single_2": 2,
+      "q_multi_1": [0],
+      "q_multi_2": [0, 2],
+      "q_blank_1": "javascript",
+      "q_blank_2": "Baidu",
+      "q_essay_1": "不太清楚。",
+      "q_essay_2": ""
+    },
+    "flagged": {},
+    "status": "graded",
+    "startTime": 1714003000000,
+    "submitTime": 1714004000000,
+    "scores": {
+      "q_single_1": 0,
+      "q_single_2": 10,
+      "q_multi_1": 0,
+      "q_multi_2": 15,
+      "q_blank_1": 0,
+      "q_blank_2": 0,
+      "q_essay_1": 3,
+      "q_essay_2": 0
+    },
+    "totalScore": 28,
+    "createdAt": 1714003000000
+  },
+  {
+    "id": "r_3",
+    "paperId": "p_published_1",
+    "studentName": "王五",
+    "answers": {
+      "q_single_1": 1,
+      "q_single_2": 1,
+      "q_multi_1": [0, 2],
+      "q_multi_2": [0, 1],
+      "q_blank_1": " js ",
+      "q_blank_2": "google",
+      "q_essay_1": "HTTPS比HTTP更安全，使用了加密协议。",
+      "q_essay_2": "让网页能在手机和电脑上都正常显示。"
+    },
+    "flagged": {},
+    "status": "graded",
+    "startTime": 1714005000000,
+    "submitTime": 1714006000000,
+    "scores": {
+      "q_single_1": 10,
+      "q_single_2": 0,
+      "q_multi_1": 15,
+      "q_multi_2": 0,
+      "q_blank_1": 10,
+      "q_blank_2": 10,
+      "q_essay_1": 10,
+      "q_essay_2": 8
+    },
+    "totalScore": 63,
+    "createdAt": 1714005000000
+  },
+  {
+    "id": "r_4",
+    "paperId": "p_published_1",
+    "studentName": "赵六",
+    "answers": {
+      "q_single_1": 1,
+      "q_single_2": 2,
+      "q_multi_1": [0, 2],
+      "q_multi_2": [0, 2],
+      "q_blank_1": "JS",
+      "q_blank_2": "Google",
+      "q_essay_1": "HTTP是超文本传输协议，HTTPS是其安全版本。",
+      "q_essay_2": "通过CSS媒体查询等技术实现自适应布局。"
+    },
+    "flagged": {},
+    "status": "graded",
+    "startTime": 1714007000000,
+    "submitTime": 1714008000000,
+    "scores": {
+      "q_single_1": 10,
+      "q_single_2": 10,
+      "q_multi_1": 15,
+      "q_multi_2": 15,
+      "q_blank_1": 10,
+      "q_blank_2": 10,
+      "q_essay_1": 14,
+      "q_essay_2": 13
+    },
+    "totalScore": 97,
+    "createdAt": 1714007000000
+  },
+  {
+    "id": "r_5",
+    "paperId": "p_published_1",
+    "studentName": "孙七",
+    "answers": {
+      "q_single_1": 1,
+      "q_single_2": 0,
+      "q_multi_1": [0, 1, 2],
+      "q_multi_2": [0],
+      "q_blank_1": "js",
+      "q_blank_2": "Yahoo",
+      "q_essay_1": "",
+      "q_essay_2": "不知道"
+    },
+    "flagged": {},
+    "status": "submitted",
+    "startTime": 1714009000000,
+    "submitTime": 1714010000000,
+    "scores": {
+      "q_single_1": 10,
+      "q_single_2": 0,
+      "q_multi_1": 0,
+      "q_multi_2": 0,
+      "q_blank_1": 10,
+      "q_blank_2": 0,
+      "q_essay_1": null,
+      "q_essay_2": null
+    },
+    "totalScore": 20,
+    "createdAt": 1714009000000
+  }
+]

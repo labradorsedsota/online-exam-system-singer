@@ -1,0 +1,78 @@
+[
+  {
+    "id": "q_single_1",
+    "type": "single",
+    "stem": "1+1等于多少？",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": 1,
+    "suggestedScore": 10,
+    "tags": ["数学"],
+    "createdAt": 1714000000000
+  },
+  {
+    "id": "q_single_2",
+    "type": "single",
+    "stem": "HTTP默认端口号是？",
+    "options": ["21", "22", "80", "443"],
+    "correctAnswer": 2,
+    "suggestedScore": 10,
+    "tags": ["网络"],
+    "createdAt": 1714000001000
+  },
+  {
+    "id": "q_multi_1",
+    "type": "multiple",
+    "stem": "以下哪些是编程语言？",
+    "options": ["Python", "HTML", "Java", "CSS"],
+    "correctAnswers": [0, 2],
+    "suggestedScore": 10,
+    "tags": ["编程"],
+    "createdAt": 1714000002000
+  },
+  {
+    "id": "q_multi_2",
+    "type": "multiple",
+    "stem": "以下哪些是关系型数据库？",
+    "options": ["MySQL", "Redis", "PostgreSQL", "MongoDB"],
+    "correctAnswers": [0, 2],
+    "suggestedScore": 10,
+    "tags": ["数据库"],
+    "createdAt": 1714000003000
+  },
+  {
+    "id": "q_blank_1",
+    "type": "blank",
+    "stem": "JavaScript的缩写是____。",
+    "correctAnswer": "JS",
+    "suggestedScore": 5,
+    "tags": ["编程"],
+    "createdAt": 1714000004000
+  },
+  {
+    "id": "q_blank_2",
+    "type": "blank",
+    "stem": "世界上最大的搜索引擎是____。",
+    "correctAnswer": "Google",
+    "suggestedScore": 5,
+    "tags": ["常识"],
+    "createdAt": 1714000005000
+  },
+  {
+    "id": "q_essay_1",
+    "type": "essay",
+    "stem": "请简述HTTP和HTTPS的区别。",
+    "referenceAnswer": "HTTPS是HTTP的安全版本，使用SSL/TLS加密传输数据。",
+    "suggestedScore": 20,
+    "tags": ["网络"],
+    "createdAt": 1714000006000
+  },
+  {
+    "id": "q_essay_2",
+    "type": "essay",
+    "stem": "请解释什么是响应式设计。",
+    "referenceAnswer": "响应式设计是一种网页设计方法，使网站能自适应不同设备的屏幕尺寸。",
+    "suggestedScore": 20,
+    "tags": ["前端"],
+    "createdAt": 1714000007000
+  }
+]

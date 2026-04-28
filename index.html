@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/online-exam-system/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>在线考试系统 — The Scholar's Notebook</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Sketchy SVG filter for hand-drawn borders -->
+    <svg style="position:absolute;width:0;height:0">
+      <filter id="sketchy">
+        <feTurbulence type="turbulence" baseFrequency="0.03" numOctaves="3" result="noise" seed="1"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.2"/>
+      </filter>
+    </svg>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

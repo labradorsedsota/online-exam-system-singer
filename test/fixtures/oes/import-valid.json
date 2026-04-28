@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-04-27T00:00:00.000Z",
+  "questions": [
+    {
+      "id": "q_import_1",
+      "type": "single",
+      "stem": "导入测试题：Vue3的响应式API是？",
+      "options": ["ref", "var", "let", "const"],
+      "correctAnswer": 0,
+      "suggestedScore": 10,
+      "tags": ["前端"],
+      "createdAt": 1714100000000
+    }
+  ],
+  "papers": [],
+  "records": []
+}
